@@ -21,8 +21,5 @@ description: Understand how to connect your IoT devices to ThingsBoard
 </tr>
 </table>
 
-{% include mermaid-graph.html 
-graphId="connectivityGraph" 
-file="resources/connectivity.mm" 
-links-json="resources/connectivity-links.json" %}
+<img width="100%" src="/images/сonnectivity/сonnectivity.svg"/>
 
